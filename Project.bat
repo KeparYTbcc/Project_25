@@ -1,3 +1,4 @@
+ren %CD%/init init2
 @echo off
 color b
 cls
